@@ -1,5 +1,7 @@
 # Embedded System Learning Journey 🔌⚡
 
+> WIP
+
 Welcome to my embeded system learning repository! This is a comprehensive guide to understanding electronics from the ground up, written by a software engineer learning hardware.
 
 ## 📚 About This Project
