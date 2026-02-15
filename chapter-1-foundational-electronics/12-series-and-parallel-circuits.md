@@ -453,8 +453,8 @@ Tank → ├═══════┤ → Out
 ✅ **Correct**: "Series circuits divide voltage; parallel circuits have same voltage everywhere"
 
 ### Mistake 2: Adding Parallel Resistances Incorrectly
-❌ **Wrong**: `R_total = R₁ + R₂` (series formula)  
-✅ **Correct**: `1/R_total = 1/R₁ + 1/R₂` (parallel formula)
+❌ **Wrong**: `Rₜₒₜₐₗ = R₁ + R₂` (series formula)  
+✅ **Correct**: `1/Rₜₒₜₐₗ = 1/R₁ + 1/R₂` (parallel formula)
 
 ### Mistake 3: Assuming Current is Same in Parallel
 ❌ **Wrong**: "All parallel branches have same current"  
