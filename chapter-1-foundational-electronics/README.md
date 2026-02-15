@@ -15,6 +15,7 @@ By completing this chapter, you will be able to:
 - ✅ Apply Ohm's Law to calculate circuit values
 - ✅ Calculate power in electrical circuits
 - ✅ Convert between different units (mA, kΩ, mW, etc.)
+- ✅ Analyze series and parallel circuit configurations
 - ✅ Solve basic electronics problems
 
 ## Prerequisites
@@ -33,7 +34,8 @@ By completing this chapter, you will be able to:
 8. [Ohm's Law](./08-ohms-law.md) - The most important formula in electronics
 9. [Power](./09-power.md) - Energy and heat in circuits
 10. [Units and Conversions](./10-units-and-conversions.md) - Master the metric prefixes
-11. [Summary and Practice](./11-summary-and-practice.md) - Review and test your knowledge
+11. [Series and Parallel Circuits](./12-series-and-parallel-circuits.md) - How components connect
+12. [Summary and Practice](./11-summary-and-practice.md) - Review and test your knowledge
 
 ## Recommended Learning Order
 
@@ -45,6 +47,7 @@ By completing this chapter, you will be able to:
 - Master **voltage, current, and resistance** as the core concepts
 - Learn **Ohm's Law** to tie everything together
 - Study **power** to understand energy
+- Explore **series and parallel circuits** to see how components connect
 - Use the **units guide** as a reference
 - Complete the **summary** to reinforce your learning
 
